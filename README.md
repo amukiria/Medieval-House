@@ -11,12 +11,13 @@
 4. Blender
 5. Figma
 6. Sketchfab
-7. Unity TextMeshPro
-8. Unity Audio
+
  
 # Packages Used
 1. Sketchfab Unity Importer
 2. DoTween Animation
 3. Unity Terrain Tools
+4. Unity TextMeshPro
+5. Unity Audio
 
  
