@@ -1,0 +1,11 @@
+Model Information:
+* title:	Quest 2 Controller Low Mid and High Poly
+* source:	https://sketchfab.com/3d-models/quest-2-controller-low-mid-and-high-poly-9f02b77cc27148c986315674c7ed106d
+* author:	BlackCube (https://sketchfab.com/blackcube4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Quest 2 Controller Low Mid and High Poly" (https://sketchfab.com/3d-models/quest-2-controller-low-mid-and-high-poly-9f02b77cc27148c986315674c7ed106d) by BlackCube (https://sketchfab.com/blackcube4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
