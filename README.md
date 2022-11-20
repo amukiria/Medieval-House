@@ -1,4 +1,4 @@
-# Medieval-Village
+# The Medieval Village
  ARVR Africa Capstone Project - Learn VR Design and Development for Building VR Apps, Experiences and Games with Unity.
  
 # Specification
