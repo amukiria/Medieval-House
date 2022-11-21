@@ -21,6 +21,7 @@ public class LoginManager : MonoBehaviour
     const float  upperWorthBounds = 4500000f;
     const float lowerWorthBounds = 1000000f;
     Vector3 cameraRotateAngle = new Vector3(0, 90, 0);
+    Vector3 camera2RotateAngle = new Vector3(0, 165, 0);
 
     private void Start()
     {
@@ -48,7 +49,7 @@ public class LoginManager : MonoBehaviour
                 rejectionCanvas.SetActive(false);
                 //TODO: DoTween DoMove(City)
                 cityCamera.transform.DOMove(cityTarget.position, timeDelay);
-                cityCamera.transform.DORotate(new Vector3(0,165,0), timeDelay);
+                cityCamera.transform.DORotate(camera2RotateAngle, timeDelay);
             }
             else
             {
