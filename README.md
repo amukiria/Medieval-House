@@ -15,7 +15,7 @@
  
 # Packages Used
 1. Sketchfab Unity Importer
-2. DoTween Animation
+2. DoTween
 3. Unity Terrain Tools
 4. Unity TextMeshPro
 5. Unity Audio
