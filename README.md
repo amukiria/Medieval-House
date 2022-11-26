@@ -20,4 +20,6 @@
 4. Unity TextMeshPro
 5. Unity Audio
 
+Build setting: Android
+
  
