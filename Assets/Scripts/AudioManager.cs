@@ -12,7 +12,6 @@ public class AudioManager : MonoBehaviour
         audioSource.PlayOneShot(ambientSFX);
     }
 
-
     public void PlayLightSwitchClick()
     {
         audioSource.PlayOneShot(lightSwitchSFX);

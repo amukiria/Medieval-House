@@ -17,7 +17,6 @@ public class LoginManager : MonoBehaviour
     [SerializeField] TMP_Text displayText;
     [SerializeField] float timeDelay = 2f;
 
-
     const float  upperWorthBounds = 4500000f;
     const float lowerWorthBounds = 1000000f;
     Vector3 cameraRotateAngle = new Vector3(0, 90, 0);
